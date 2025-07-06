@@ -1,0 +1,3 @@
+# don't track secrets or large raw data
+.env
+data/
