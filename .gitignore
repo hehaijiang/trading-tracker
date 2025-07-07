@@ -1,3 +1,6 @@
 # don't track secrets or large raw data
 .env
 data/
+.venv/
+trades.db
+.DS_Store
